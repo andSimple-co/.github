@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">This is the <a href="https://instagram.com/andsimpleco" target="_blank">Simple</a> repo with our open source solutions. We're in the process of releasing a whole string of <a href="https://andsimple.co/companies/software/"target="_blank">family office software</a> & technology tools. Reach out if you would like to join us and contribute.</p>
+<p align="left">This is the <a href="https://andsimple.co" target="_blank">Simple</a> repo with our open source solutions. We're in the process of releasing a whole string of <a href="https://andsimple.co/companies/software/"target="_blank">family office software</a> & technology tools. Reach out if you would like to join us and contribute.</p>
 
 ###
 
